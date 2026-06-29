@@ -1,0 +1,5 @@
+gitpython
+javalang
+scikit-learn
+sentence-transformers
+tqdm
