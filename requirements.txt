@@ -3,3 +3,5 @@ javalang
 scikit-learn
 sentence-transformers
 tqdm
+fastapi
+uvicorn[standard]
