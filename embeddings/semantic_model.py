@@ -7,7 +7,8 @@ model = SentenceTransformer(
     "sentence-transformers/all-MiniLM-L6-v2",
     backend="onnx",
     model_kwargs={
-        "provider": "CPUExecutionProvider"
+        "provider": "CPUExecutionProvider",
+        "file_name": "onnx/model_quint8_avx2.onnx"
     }
 )
 
