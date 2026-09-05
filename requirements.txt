@@ -1,7 +1,7 @@
 gitpython
 javalang
 scikit-learn
-sentence-transformers
+sentence-transformers[onnx]
 tqdm
 fastapi
 uvicorn[standard]
